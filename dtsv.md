@@ -137,29 +137,30 @@ Jede Rechnung enthält genau **5 standardisierte Positionen**:
 
 ### Rollen & Berechtigungen
 
-1. **Supervisor-Zuweisung:** Wer legt fest, welcher Supervisor für welches Turnier zuständig ist? Der TD oder der DTSV Admin?
-2. **Mehrere Supervisoren:** Kann ein Turnier mehrere Supervisoren haben, oder gibt es immer genau einen?
-3. **TD als Supervisor:** Darf der Turnierdirektor gleichzeitig als Supervisor fungieren?
-4. **DTSV-Admin-Zugriff:** Soll der DTSV Admin Rechnungen bearbeiten/ablehnen können, oder nur lesen?
+1. **Supervisor-Zuweisung:** Wer legt fest, welcher Supervisor für welches Turnier zuständig ist? Der TD oder der DTSV Admin? -> 1 zentraler account für dtb/dtsv
+2. **Mehrere Supervisoren:** Kann ein Turnier mehrere Supervisoren haben, oder gibt es immer genau einen? -> 1 supervisor pro turner
+4. **TD als Supervisor:** Darf der Turnierdirektor gleichzeitig als Supervisor fungieren? -> nein (bei ITF, national möglich)
+5. **DTSV-Admin-Zugriff:** Soll der DTSV Admin Rechnungen bearbeiten/ablehnen können, oder nur lesen? -> nur lesen, kein Eingriff
 
 ### Abrechnungsprozess
 
-5. **Vorschüsse:** Wie werden Vorschüsse (Abschlagszahlungen) erfasst? Trägt der TD diese ein?
-6. **Ablehnungen:** Was passiert, wenn der Supervisor eine Rechnung ablehnt? Zurück an den Official zur Korrektur?
-7. **Fristen:** Gibt es eine Frist, bis wann der Official seine Rechnung einreichen muss?
-8. **Stornierungen:** Können genehmigte Rechnungen storniert werden? Wenn ja, von wem?
+5. **Vorschüsse:** Wie werden Vorschüsse (Abschlagszahlungen) erfasst? Trägt der TD diese ein? -> ignore
+6. **Ablehnungen:** Was passiert, wenn der Supervisor eine Rechnung ablehnt? Zurück an den Official zur Korrektur? -> ja, "ablehnen & Rückgabe zur Korrektur"
+7. **Fristen:** Gibt es eine Frist, bis wann der Official seine Rechnung einreichen muss? -> nein
+8. **Stornierungen:** Können genehmigte Rechnungen storniert werden? Wenn ja, von wem? -> zwischen supervisor schließt ab und TD zahlt (TD + DTSV admin)
 
 ### Tagegeld & Sätze
 
-9. **Verpflegungspauschalen:** Sind die Sätze für Verpflegung (ganztags/halbtags) bundesweit einheitlich oder turnierabhängig?
-10. **Reisekostenpauschale:** Gibt es eine km-Pauschale für PKW-Fahrten, oder werden nur tatsächliche Kosten erstattet?
-11. **Höchstbeträge:** Gibt es Obergrenzen für einzelne Positionen (z.B. max. Reisekosten)?
+9. **Verpflegungspauschalen:** Sind die Sätze für Verpflegung (ganztags/halbtags) bundesweit einheitlich oder turnierabhängig? turnierabhängig (Supervisor trägt Satz ein)
+10. **Reisekostenpauschale:** Gibt es eine km-Pauschale für PKW-Fahrten, oder werden nur tatsächliche Kosten erstattet? Bahn 2. Klasse, nicht 0,3 pro km, sondern vergleichbare Bahnfahrt, max 175€ (Distanz Haustür zu Anlage) 
+11. **Höchstbeträge:** Gibt es Obergrenzen für einzelne Positionen (z.B. max. Reisekosten)? nein 
 
 ### Sonstiges
 
-12. **Steuerliche Behandlung:** Sind die Zahlungen an Offizielle umsatzsteuerpflichtig? Müssen Offizielle eine Steuernummer angeben?
+12. **Steuerliche Behandlung:** Sind die Zahlungen an Offizielle umsatzsteuerpflichtig? Müssen Offizielle eine Steuernummer angeben? 
 13. **Datenschutz:** Welche Daten dürfen turnierübergreifend sichtbar sein (DTSV Admin)?
 14. **Archivierung:** Wie lange müssen Rechnungen und Belege aufbewahrt werden?
+15. Bahncard Bezuschussung -> Bezuschussungen 
 
 ---
 
