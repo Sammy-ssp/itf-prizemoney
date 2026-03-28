@@ -23,10 +23,10 @@ Das Officials-Modul ermöglicht die digitale Abrechnung von Turnieroffiziellen (
 | Belege hochladen                                  |    ✅    |     ✅     |          —           |     —      |
 | Eigene Rechnung e-signieren                       |    ✅    |     ✅     |          —           |     —      |
 | Eigene Rechnungen & Profil einsehen               |    ✅    |     ✅     |          —           |     —      |
-| Rechnungen anderer Offizieller gegenzeichnen      |    —     |     ✅     |          —           |     —      |
-| Übersicht aller Offiziellen & Kosten pro Turnier  |    —     |     —      |          ✅          |     —      |
+| Rechnungen anderer Offizieller gegenzeichnen      |    —     |     ✅     |          —           |     ✅      |
+| Übersicht aller Offiziellen & Kosten pro Turnier  |    —     |     —      |          ✅          |     ✅     |
 | SEPA-XML für Sammelüberweisung herunterladen       |    —     |     —      |          ✅          |     —      |
-| Offizielle dem Turnier zuweisen / bestätigen      |    —     |     —      |          ✅          |     —      |
+| Supervisor dem Turnier zuweisen / bestätigen      |    —     |     —      |          -         |     ✅     |
 | Tagegeld-Matrix pflegen (Badge-Level × Kategorie) |    —     |     —      |          —           |     ✅     |
 | Alle Rechnungen filtern (Kategorie, Datum, Status)|    —     |     —      |          —           |     ✅     |
 | Zertifizierungen / Badge-Level verwalten          |    —     |     —      |          —           |     ✅     |
@@ -157,10 +157,10 @@ Jede Rechnung enthält genau **5 standardisierte Positionen**:
 
 ### Sonstiges
 
-12. **Steuerliche Behandlung:** Sind die Zahlungen an Offizielle umsatzsteuerpflichtig? Müssen Offizielle eine Steuernummer angeben? 
-13. **Datenschutz:** Welche Daten dürfen turnierübergreifend sichtbar sein (DTSV Admin)?
-14. **Archivierung:** Wie lange müssen Rechnungen und Belege aufbewahrt werden?
-15. Bahncard Bezuschussung -> Bezuschussungen 
+12. **Steuerliche Behandlung:** Sind die Zahlungen an Offizielle umsatzsteuerpflichtig? Müssen Offizielle eine Steuernummer angeben? -> siehe Excel
+13. **Datenschutz:** Welche Daten dürfen turnierübergreifend sichtbar sein (DTSV Admin)? -> 
+14. **Archivierung:** Wie lange müssen Rechnungen und Belege aufbewahrt werden? -> keine Belege
+15. Bahncard Bezuschussung -> Bezuschussungen (siehe Mail)
 
 ---
 
